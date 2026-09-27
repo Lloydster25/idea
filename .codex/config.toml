@@ -1,0 +1,5 @@
+﻿[mcp_servers.laravel-boost]
+command = 'C:/Users/lloyd/.config/herd-lite/bin/php.exe'
+args = ['artisan', 'boost:mcp']
+cwd = 'C:/Users/lloyd/Herd/idea'
+startup_timeout_sec = 30
